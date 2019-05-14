@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT merz01_3319.wsgi:application
